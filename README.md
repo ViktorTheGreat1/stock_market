@@ -1,3 +1,4 @@
+
     This is my stock market game. I had a lot of inspiration for this from my dad, who is an accountant. It makes me happy 
   that I can do this kind of stock market stuff without any risk and still be like my dad and have fun with it. I hope you 
   enjoy this as much as I do. I need to tell you a couple of things:
