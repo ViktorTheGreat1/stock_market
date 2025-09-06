@@ -11,3 +11,11 @@ I will try to update this as much as possible, I do get pretty busy. If you have
 or just comment, I will look at them. I hope you enjoy this as much as I do!
 Sincerely,
 ViktorTheGreat1
+
+### Getting Started
+
+to install the needed libraries, run the command:
+
+```bash
+pip install -r requirements.txt
+```
